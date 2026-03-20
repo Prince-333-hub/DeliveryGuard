@@ -63,5 +63,11 @@ Development Plan (what we did till now):
 •	Today (20 March): Added full Anti-Spoofing section because of Market Crash
 •	Next 2 days (start of Phase 2): Build registration, premium calculation and basic claims flow
 
+## Phase 1 Video
+2-minute AI-generated video: https://youtu.be/Yxs5LTQTd2M
+
+GitHub Repo: https://github.com/Prince-333-hub/DeliveryGuard
+Submitted on 20 March 2026 before deadline.
+
 GitHub Repo Link: https://github.com/Prince-333-hub/DeliveryGuard
 Anything else relevant: We focus on zero-touch claims so delivery partners never lose even one day’s income. The app is simple, fair and fraud-proof. Ready for Phase 2 tomorrow.
